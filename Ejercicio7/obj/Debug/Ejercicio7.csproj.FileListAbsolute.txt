@@ -1,0 +1,7 @@
+C:\Users\PC\Documents\CODIGOS DE GAMA\Ejercicios Arreglados\Ejercicio7\bin\Debug\Ejercicio7.exe.config
+C:\Users\PC\Documents\CODIGOS DE GAMA\Ejercicios Arreglados\Ejercicio7\bin\Debug\Ejercicio7.exe
+C:\Users\PC\Documents\CODIGOS DE GAMA\Ejercicios Arreglados\Ejercicio7\bin\Debug\Ejercicio7.pdb
+C:\Users\PC\Documents\CODIGOS DE GAMA\Ejercicios Arreglados\Ejercicio7\obj\Debug\Ejercicio7.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\CODIGOS DE GAMA\Ejercicios Arreglados\Ejercicio7\obj\Debug\Ejercicio7.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\CODIGOS DE GAMA\Ejercicios Arreglados\Ejercicio7\obj\Debug\Ejercicio7.exe
+C:\Users\PC\Documents\CODIGOS DE GAMA\Ejercicios Arreglados\Ejercicio7\obj\Debug\Ejercicio7.pdb
