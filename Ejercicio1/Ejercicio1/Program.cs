@@ -1,9 +1,6 @@
 ﻿using System;
 
-/*Crear un programa que permita 
-introducir por teclado dos números 
-enteros y mostrar el resultado de la 
-suma, resta, multiplicación y división*/
+
 
 class Ejercicio1
 {
