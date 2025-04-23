@@ -1,5 +1,11 @@
 ﻿using System;
 
+/*Este programa en C# calcula el total a pagar por una compra,
+solicitando al usuario la cantidad y el precio de un artículo.
+Luego calcula el importe, el ITBIS (18%), un descuento (10%)
+y muestra el total general.*/
+
+
 class Program
 {
     static void Main()
