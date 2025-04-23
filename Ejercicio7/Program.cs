@@ -1,5 +1,10 @@
 ﻿using System;
 
+/*Este programa en C# calcula el nuevo sueldo de
+un empleado aplicando un aumento del 15% al sueldo
+ingresado por el usuario, y luego muestra el sueldo 
+anterior y el nuevo sueldo.*/
+
 class Program
 {
     static void Main()
